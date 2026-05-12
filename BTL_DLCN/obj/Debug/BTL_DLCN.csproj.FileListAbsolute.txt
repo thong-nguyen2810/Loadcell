@@ -1,0 +1,11 @@
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\bin\Debug\BTL_DLCN.exe.config
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\bin\Debug\BTL_DLCN.exe
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\bin\Debug\BTL_DLCN.pdb
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\obj\Debug\BTL_DLCN.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\obj\Debug\BTL_DLCN.Form1.resources
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\obj\Debug\BTL_DLCN.Properties.Resources.resources
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\obj\Debug\BTL_DLCN.csproj.GenerateResource.cache
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\obj\Debug\BTL_DLCN.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\obj\Debug\BTL_DLCN.exe
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\obj\Debug\BTL_DLCN.pdb
+D:\Visual Studio 2022\Projects\DCLN\BTL_DLCN\obj\Debug\BTL_DLCN.exe.config
